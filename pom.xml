@@ -24,8 +24,8 @@
   <distributionManagement>
     <site>
       <id>site-server</id>
-      <name>Test Project Site</name>
-      <url>file:///tmp/maven-project-site</url>
+      <name>admin</name>
+      <url>file:http://13.250.31.103:9000///tmp/maven-project-site</url>
     </site>
   </distributionManagement>
 
